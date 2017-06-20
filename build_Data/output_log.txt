@@ -1,0 +1,69 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5450 (ID=0x68f9)
+    Vendor:   ATI
+    VRAM:     2296 MB
+    Driver:   15.201.1151.1008
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\avelasco\Documents\RollABall\Builds\build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\avelasco\Documents\RollABall\Builds\build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\avelasco\Documents\RollABall\Builds\build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\avelasco\Documents\RollABall\Builds\build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\avelasco\Documents\RollABall\Builds\build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\avelasco\Documents\RollABall\Builds\build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\avelasco\Documents\RollABall\Builds\build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\avelasco\Documents\RollABall\Builds\build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\avelasco\Documents\RollABall\Builds\build_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\avelasco\Documents\RollABall\Builds\build_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.065 seconds
+Platform assembly: C:\Users\avelasco\Documents\RollABall\Builds\build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\avelasco\Documents\RollABall\Builds\build_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.009785 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1ae0 -> priority: 1 
+  Thread -> id: 2f8c -> priority: 1 
+  Thread -> id: d1c -> priority: 1 
+  Thread -> id: 1fbc -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.425888 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 411.
+Total: 0.344422 ms (FindLiveObjects: 0.034110 ms CreateObjectMapping: 0.028374 ms MarkObjects: 0.268957 ms  DeleteObjects: 0.012074 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.257248 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 411.
+Total: 0.425622 ms (FindLiveObjects: 0.050712 ms CreateObjectMapping: 0.044977 ms MarkObjects: 0.315142 ms  DeleteObjects: 0.013885 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.668016 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 411.
+Total: 0.325707 ms (FindLiveObjects: 0.034713 ms CreateObjectMapping: 0.031695 ms MarkObjects: 0.246016 ms  DeleteObjects: 0.012678 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.678883 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 411.
+Total: 0.316953 ms (FindLiveObjects: 0.034412 ms CreateObjectMapping: 0.031091 ms MarkObjects: 0.238469 ms  DeleteObjects: 0.012074 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.630887 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 411.
+Total: 0.319971 ms (FindLiveObjects: 0.035921 ms CreateObjectMapping: 0.029582 ms MarkObjects: 0.241186 ms  DeleteObjects: 0.012376 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.688543 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 411.
+Total: 0.354685 ms (FindLiveObjects: 0.034713 ms CreateObjectMapping: 0.030789 ms MarkObjects: 0.277107 ms  DeleteObjects: 0.011168 ms)
+
